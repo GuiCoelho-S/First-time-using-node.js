@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Projeto aula github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ttps://github.com/GuiCoelho-S/First-time-using-node.js.git"
+  },
+  "author": "Guilherme Coelho",
+  "license": "ISC"
+}
